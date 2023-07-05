@@ -4,6 +4,13 @@ const main = document.getElementById("main");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
 
+const darkModeToggle = document.getElementById("dark-mode-toggle");
+const body = document.body;
+
+darkModeToggle.addEventListener("change", () => {
+    body.classList.toggle("dark");
+  });
+
 async function getUser(username) { 
     const resp = await fetch(APIURL + username);
     const respData = await resp.json();
