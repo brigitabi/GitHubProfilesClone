@@ -4,9 +4,11 @@ This is a simple JavaScript, HTML, and CSS project that allows users to view Git
 
 ## Demo
 
-[View Demo](https://github.com/brigitabi/GitHubProfilesClone))
+[View Demo](https://github.com/brigitabi/GitHubProfilesClone)
 
 ## Features
+
+GitHubl Profiles Clone website: 
 
 - Displays the user's name and description.
 - Shows the number of followers and following.
@@ -30,3 +32,5 @@ This is a simple JavaScript, HTML, and CSS project that allows users to view Git
 If you have a live server extension installed in your code editor (such as VS Code's Live Server extension), right-click on the index.html file and choose the option to open it with a live server.
 Alternatively, you can use the "Serve" feature of popular development tools like Node.js, Python's SimpleHTTPServer, or any other web server of your choice.
 4. Once the live server is running, you can access the project in your web browser by navigating to the provided URL.
+
+Happy coding! 
