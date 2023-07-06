@@ -1,10 +1,16 @@
-# GitHub Profile Clone Project
+# GitHub Profiles Clone Project
 
 This is a simple JavaScript, HTML, and CSS project that allows users to view GitHub user profiles. It retrieves information such as the user's name, description, followers, following, and public repositories using the GitHub API. Part of the project has been inspired by Florin Pop's YouTube tutorial titled: [10 JavaScript Projects in 10 Hours - Coding challenge.](https://www.youtube.com/watch?v=dtKciwk_si4)
 
 ## Demo
 
 [View Demo](https://github.com/brigitabi/GitHubProfilesClone)
+
+# Light Mode 
+![GitHub Profiles Clone project in the Light Mode](public/Light Mode.png)
+
+# Dark Mode 
+![GitHub Profiles Clone project in the Dark Mode](public/Dark Mode.png)
 
 ## Features
 
