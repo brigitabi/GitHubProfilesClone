@@ -6,10 +6,10 @@ This is a simple JavaScript, HTML, and CSS project that allows users to view Git
 
 [View Demo](https://github.com/brigitabi/GitHubProfilesClone)
 
-# Light Mode 
+### Light Mode 
 ![GitHub Profiles Clone project in the Light Mode](Public/LightMode.png)
 
-# Dark Mode 
+### Dark Mode 
 ![GitHub Profiles Clone project in the Dark Mode](Public/DarkMode.png)
 
 ## Features
